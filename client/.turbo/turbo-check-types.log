@@ -1,0 +1,5 @@
+
+
+> client@0.1.0 check-types /Users/saint/learning/ecom/apps/client
+> tsc --noEmit
+
