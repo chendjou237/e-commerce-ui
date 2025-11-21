@@ -1,0 +1,5 @@
+
+
+> product-service@1.0.0 check-types /Users/saint/learning/ecom/apps/product-service
+> tsc --noEmit
+
